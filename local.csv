@@ -1,23 +1,23 @@
-keys,en,ja
-MENU_FREEPLAY,FREEPLAY,フリープレー
-MENU_OPTIONS,OPTIONS,設定
-MENU_MODS,MODS,モッズ
-MENU_EXTRAS,EXTRAS,エクストラ
-MENU_CREDITS,CREDITS,クレジット
-MENU_QUIT,QUIT,終了
-SETTINGS_VIDEO,Video,ビデオ
-SETTINGS_GAME,Game,ゲーム
-SETTINGS_TO_RIGHT,RIGHT,右へ
-SETTINGS_TO_LEFT,LEFT,左へ
-SETTINGS_GAME,Game,ゲーム
-SETTINGS_KEYBINDS,Keybinds,キーバインド
-SETTINGS_ON,On,オン
-SETTINGS_OFF,Off,オフ
-SETTINGS_RESOLUTION,Resolution,解像度
-SETTINGS_FULLSCREEN,Fullscreen,フルスクリーン
-SETTINGS_APPLY,Apply,設定を適用する
-SETTINGS_DEFAULT_RESTORE,Restore Defaults,初期設定に戻す
-SETTINGS_DEFAULT_VOLUME_MASTER,Master Volume,Master ボリューム
-SETTINGS_DEFAULT_VOLUME_MUSIC,Music Volume,音楽ボリューム
-SETTINGS_DEFAULT_VOLUME_SFX,SFX Volume,SFXボリューム
-SETTINGS_DEFAULT_VOLUME_VOICE,Voice Volume,音声ボリューム
+keys,en,ja,pt
+MENU_FREEPLAY,FREEPLAY,フリープレー,sample
+MENU_OPTIONS,OPTIONS,設定,sample
+MENU_MODS,MODS,モッズ,sample
+MENU_EXTRAS,EXTRAS,エクストラ,sample
+MENU_CREDITS,CREDITS,クレジット,sample
+MENU_QUIT,QUIT,終了,sample
+SETTINGS_VIDEO,Video,ビデオ,sample
+SETTINGS_GAME,Game,ゲーム,sample
+SETTINGS_TO_RIGHT,RIGHT,右へ,sample
+SETTINGS_TO_LEFT,LEFT,左へ,sample
+SETTINGS_GAME,Game,ゲーム,sample
+SETTINGS_KEYBINDS,Keybinds,キーバインド,sample
+SETTINGS_ON,On,オン,sample
+SETTINGS_OFF,Off,オフ,sample
+SETTINGS_RESOLUTION,Resolution,解像度,sample
+SETTINGS_FULLSCREEN,Fullscreen,フルスクリーン,sample
+SETTINGS_APPLY,Apply,設定を適用する,sample
+SETTINGS_DEFAULT_RESTORE,Restore Defaults,初期設定に戻す,sample
+SETTINGS_DEFAULT_VOLUME_MASTER,Master Volume,Master ボリューム,sample
+SETTINGS_DEFAULT_VOLUME_MUSIC,Music Volume,音楽ボリューム,sample
+SETTINGS_DEFAULT_VOLUME_SFX,SFX Volume,SFXボリューム,sample
+SETTINGS_DEFAULT_VOLUME_VOICE,Voice Volume,音声ボリューム,sample
